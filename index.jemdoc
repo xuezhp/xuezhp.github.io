@@ -1,0 +1,103 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Zhipeng Xue
+ShanghaiTech University,
+[http://sist.shanghaitech.edu.cn/index.asp School of Information Science and Technology (SIST)]
+
+== Research Interests
+
+My research interest is in the general areas of signal processing, including but not limited to
+- Compressed Sensing
+- Machine Learning
+
+
+== Course Syllabus
+
+- [teaching/EE5243_IntroToCPS_Syllabus.pdf Click here to download the course syllabus.] 
+
+=== Lecture Notes*
+
+*Modules are organized based on topics covered in class. Each Module is equivalent to 2--4 lectures.
+
+- [teaching/EE5243_Module1.pdf Module 1]: Course introduction and syllabus, CPS background, tentative schedule
+- [teaching/EE5243_Module2.pdf Module 2]: Prerequisite Assessment Exam + Solutions
+- [teaching/EE5243_Module3.pdf Module 3]: Linear Systems Theory, Introductory Background
+- [teaching/EE5243_Module4.pdf Module 4]: Optimization Problems, KKT Conditions & Solvers  
+- [teaching/EE5243_Module5.pdf Module 5]: Optimal Control, Dynamic Programming, LQR + Examples 
+- [teaching/EE5243_Module6.pdf Module 6]: Introduction to Model Predictive Control
+- [teaching/EE5243_Module7.pdf Module 7]: Dynamic State Estimation & Observer Design 
+- [teaching/EE5243_Module8.pdf Module 8]: Networked Control Systems for CPSs 
+- [teaching/EE5243_Module9.pdf Module 9]: Decentralized Networked Control Systems 
+- [teaching/EE5243_Module9.pdf Module 9]: Decentralized Networked Control Systems 
+- [teaching/EE5243_Module10.pdf Module 10]: Exploiting Linear Matrix Inequalities In Control Systems Design --- A lecture by [http://web.ics.purdue.edu/~chakraa/index.html Ankush Chakrabarty] from ECE 680, Purdue University. [teaching/ECE680F2015_Examples.zip Click here for the codes.]
+
+=== Final Exam 
+
+- [teaching/Final_Exam_Coverage.pdf Final Exam Topics]
+- [teaching/EE5243_Final_Exam_Fall2015.pdf Final Exam]
+- [teaching/EE5243_Final_Exam_Fall2015_Solutions.pdf Final Exam Solutions]
+
+
+=== Homework Assignments 
+
+- [teaching/homework1.pdf Homework 1] (Thanks for [https://www.cs.purdue.edu/homes/dgleich/ David Gleich] for sharing the LaTeX homework template with us.)
+- [teaching/Assessment_Exam.pdf Assessment Exam, Homework 2], [teaching/EE5243_Module2.pdf Solutions]
+- [teaching/homework3.pdf Homework 3], [teaching/homework3sol.pdf Homework 3 Solutions], [teaching/homework3solHafez.pdf best student solutions]
+- [teaching/homework4.pdf Homework 4], [teaching/homework4solns.pdf Homework 4 Solutions], [teaching/homework4_Hafez_solutions.pdf best student solutions]
+- [teaching/homework5.pdf Homework 5], [teaching/homework5sol.pdf Homework 5 Solutions], [teaching/homework5HafezSol.pdf best student solutions]
+- [teaching/homework6_7.pdf Homeworks 6-7], [teaching/homework6_7sol.pdf Homework 6-7 Solutions], [teaching/Codes_Homework6+7.zip Download the codes and run main.m to generate the solutions.]
+
+# [teaching/homework3sol.pdf Homework 3 Solutions], [teaching/homework3solHafez.pdf best student solutions]
+
+=== Quizzes 
+
+- [teaching/quiz1.pdf Quiz 1] [teaching/quiz1sol.pdf Quiz 1 Solutions]
+- [teaching/quiz2.pdf Quiz 2] [teaching/quiz2sol.pdf Quiz 2 Solutions]
+- [teaching/quiz3.pdf Quiz 3] [teaching/quiz3sol.pdf Quiz 3 Solutions]
+- [teaching/quiz4.pdf Quiz 4] [teaching/quiz4sol.pdf Quiz 4 Solutions]
+- [teaching/quiz5.pdf Quiz 5] [teaching/quiz5sol.pdf Quiz 5 Solutions]
+- [teaching/quiz6.pdf Quiz 6] [teaching/quiz6sol.pdf Quiz 6 Solutions]
+- [teaching/quiz7.pdf Quiz 7] [teaching/quiz7sol.pdf Quiz 7 Solutions]
+- [teaching/quiz8.pdf Quiz 8] [teaching/quiz8sol.pdf Quiz 8 Solutions]
+- [teaching/quiz9.pdf Quiz 9] [teaching/quiz9sol.pdf Quiz 9 Solutions]
+- [teaching/quiz10.pdf Quiz 10] [teaching/quiz10sol.pdf Quiz 10 Solutions]
+- [teaching/quiz11.pdf Quiz 11] 
+
+
+=== Research papers and interesting reads
+
+==== On Networked Control Systems for CPSs
+- [teaching/NCS_Book.pdf Book on NCSs --- Very thorough]
+- [teaching/NCS_StabilityAnalysis.pdf Stability Analysis of Networked Control Systems]
+- [teaching/NCS_Survey.pdf Survey on Networked Control Systems (2007, a bit outdated now)]
+- [http://engineering.utsa.edu/~taha/papers/IJC.pdf UIO Design for NCSs Subject to Time-Delays & Unknown Inputs]
+
+==== On Observers 
+- [teaching/Observers_Intro.pdf Introduction to Observers]
+- [teaching/Observers_Intro2.pdf Another Introduction to Observers]
+- [teaching/Observers_Original_Paper.pdf Luenberger's Initial Original Work]
+- [teaching/Observers_ChenSaifUIO.pdf Observer Design for Nonlinear Systems with Unknown Inputs]
+- [teaching/Observers_SMO_UIO.pdf Observer Design for Linear Systems with Unknown Inputs (SMO + Linear Observers)]
+- [teaching/Observers_Zhang_Su_NLO.pdf Simple Observer Design for Nonlinear Systems]
+
+==== On Optimal Control 
+- [teaching/300Years_Of_Optimal_Control.pdf 300 Years of Optimal Control --- A very interesting read]
+- [teaching/PMP_Handout.pdf Pontryagin's Minimum Principle]
+- [teaching/MPC_Intro.pdf MPC Introduction]
+- [teaching/MPC_MATLAB_Book.pdf MPC Book + MATLAB Implementations]
+
+==== On Miscellaneous Topics:
+- [teaching/Convex_Optimization_Lecture_Notes.pdf Lecture Notes on Convex Optimization]
+- [teaching/Lyapunov_Stability_Analysis.pdf Introduction to Lyapunov Stability Analysis]
+
+
+
+=== Useful Links 
+
+- [http://stanford.edu/class/ee364a/ Online course on Convex Optimization ]
+- [http://cvxr.com/cvx/ CVX --- Convex Optimization Problems Solver]
+- [http://www.neos-server.org/neos/  NEOS Solver ]
+
+=== Codes 
+
+- [teaching/homework_latex_template.zip Homework LaTeX Template]
+- [teaching/beamertemplate.zip Beamer Presentation Template]
