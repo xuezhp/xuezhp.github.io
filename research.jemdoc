@@ -12,3 +12,11 @@
 == Research Topics
 
 I am now using message passing algorithm to solve estimation problems like compressed sensing and phase retrieval. Message passing algorithm is powerful in these problems and has very successful applications.
+
+=== Compressed Sensing
+
+Solve the problem of $y=A x$, where $x$ is a sparse vector.
+
+=== Phase Retrieval
+
+Solve the problem of $y=|A x|$ .
