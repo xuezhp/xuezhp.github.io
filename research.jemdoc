@@ -1,22 +1,9 @@
 # jemdoc: menu{MENU}{research.html}, showsource
-== Research Interests
+= Research
+== Research Topics
 
-My research interest is in the general areas of signal processing, including but not limited to
-- Compressed Sensing
-- Bayesian statistical inference 
-- Dictionary Learning
-- Signal denoising
+I am now using message passing algorithm to solve estimation problems like compressed sensing and phase retrieval. Message passing algorithm is powerful in these problems and has very successful applications.
 
-If you are also interest in these areas, and have some problem with it, you can contact me.
-
-== Publications
-
-=== Accepted Conference Papers
-
-- [https://arxiv.org/abs/1610.05991 D-OAMP: A Denoising-based Signal Recovery Algorithm for Compressed Sensing], 2016, Accepted by IEEE Global
-Conference on Signal and Information Processing (GlobalSIP 2016).
-
-
-== Contact
-Zhipeng Xue \n
-Email:  [xuezhp@shanghaitech.edu.cn xuezhp@shanghaitech.edu.cn] 
+~~~
+{}{img_left}{lena.bmp}{alt text}{200px}{HEIGHTpx}{}{img_left}{fastdct_05.jpg}{alt text}{200px}{HEIGHTpx}
+~~~
