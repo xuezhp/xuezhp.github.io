@@ -1,22 +1,26 @@
 # jemdoc: menu{MENU}{research.html}, showsource
 = Research
 
-~~~
-{}{img_left}{lena.bmp}{alt text}{200px}{HEIGHTpx}
-~~~
-
-~~~
-{}{img_left}{fastdct05.jpg}{alt text}{200px}{HEIGHTpx}
-~~~
+Research is Exciting!
 
 == Research Topics
 
-I am now using message passing algorithm to solve estimation problems like compressed sensing and phase retrieval. Message passing algorithm is powerful in these problems and has very successful applications.
+I am now working on using message passing algorithm to solve estimation problems. Applications of message passing algorithm includes compressed sensing, phase retrieval, etc.
+
+=== Message Passing
+
+~~~
+{}{img_left}{factorpass.jpg}{alt text}{200px}{HEIGHTpx}
+~~~
 
 === Compressed Sensing
 
 Solve the problem of $y=A x$, where $x$ is a sparse vector.
 
+~~~
+{}{img_left}{compressive-sensing.png}{alt text}{200px}{HEIGHTpx}
+~~~
+
 === Phase Retrieval
 
-Solve the problem of $y=|A x|$ .
+Solve the problem of $y=|A x|$. We only get the magnitude of the observation.
