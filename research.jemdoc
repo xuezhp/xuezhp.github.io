@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}, showsource
 = Research
-Research is Exciting!
 
+Research is Exciting!
 == Research Topics
 I am now working on using message passing algorithm to solve estimation problems. Applications of message passing algorithm includes compressed sensing, phase retrieval, etc.
 
