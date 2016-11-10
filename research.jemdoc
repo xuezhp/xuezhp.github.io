@@ -1,14 +1,11 @@
 # jemdoc: menu{MENU}{research.html}, showsource
 = Research
-
 Research is Exciting!
 
 == Research Topics
-
 I am now working on using message passing algorithm to solve estimation problems. Applications of message passing algorithm includes compressed sensing, phase retrieval, etc.
 
 === Message Passing
-
 Message passing algorithm is used to calculate the marginal distribution given joint distribution. The messages passing between factor nodes and variable nodes in a factor graph.
 
 ~~~
@@ -16,7 +13,6 @@ Message passing algorithm is used to calculate the marginal distribution given j
 ~~~
 
 === Compressed Sensing
-
 Solve the problem of $y=A x$, where $x$ is a sparse vector.
 
 ~~~
@@ -24,5 +20,4 @@ Solve the problem of $y=A x$, where $x$ is a sparse vector.
 ~~~
 
 === Phase Retrieval
-
 Solve the problem of $y=|A x|$. We only get the magnitude of the observation.
