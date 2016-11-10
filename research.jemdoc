@@ -1,12 +1,11 @@
 # jemdoc: menu{MENU}{research.html}, showsource
 = Research
-
+~~~
+{}{img_left}{lena.bmp}{alt text}{200px}{HEIGHTpx}
+~~~
+~~~
+{}{img_left}{fastdct_05.jpg}{alt text}{200px}{HEIGHTpx}
+~~~
 == Research Topics
 
 I am now using message passing algorithm to solve estimation problems like compressed sensing and phase retrieval. Message passing algorithm is powerful in these problems and has very successful applications.
-
-~~~
-{}{img_left}{lena.bmp}{alt text}{200px}{HEIGHTpx}
-
-{}{img_left}{fastdct_05.jpg}{alt text}{200px}{HEIGHTpx}
-~~~
