@@ -4,34 +4,39 @@
 [http://sist.shanghaitech.edu.cn/index.asp School of Information Science and Technology (SIST)]
 
 ~~~
-{}{img_left}{me3.jpg}{alt text}{300px}{HEIGHTpx}
+{}{img_left}{me2.jpg}{alt text}{300px}{HEIGHTpx}
 ~~~
 
 Welcome to my homepage!
 
-I am now an graduate in the School of Information Science and Technology at ShanghaiTech University.
+I am now an Ph.D. student at the School of Information Science and Technology, ShanghaiTech University.
 
 I received the B.E. degree in communication engineering from [http://www.swjtu.edu.cn Southwest Jiaotong University].
 
 [http://magicsensing.com/cv.pdf My Curriculum Vitae]
 == Research Interests
 
-My research interest is in the general areas of signal processing, including but not limited to
-- Compressed Sensing
-- Bayesian statistical inference 
-- Dictionary Learning
-- Signal denoising
-
-If you are also interest in these areas, and have some problem with it, you can contact me.
+My research interest is in the general areas of statistical signal processing and machine learning, including but not limited to
+- Compressed sensing 
+- Matrix completion
+- Robust principal component analysis
 
 == Publications
 
 === Accepted Conference Papers
 
-- [https://arxiv.org/abs/1610.05991 D-OAMP: A Denoising-based Signal Recovery Algorithm for Compressed Sensing], 2016, Accepted by IEEE Global
-Conference on Signal and Information Processing (GlobalSIP 2016).
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7905845 D-OAMP: A Denoising-based Signal Recovery Algorithm for Compressed Sensing], In IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2016.
+
+- [https://ieeexplore.ieee.org/document/8462542/ Tarm: A turbo-type algorithm for low-rank matrix recovery], In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
+
+=== Accepted Journal Papers
+
+- [https://ieeexplore.ieee.org/document/7912330/ Denoising-Based Turbo Compressed Sensing], IEEE Access, 2017.
+
+- [https://ieeexplore.ieee.org/document/8502093/ Turbo-Type Message Passing Algorithms for Compressed Robust Principal Component Analysis], IEEE Journal of Selected Topics in Signal Processing, 2018.
+
+=== Submitted Journal Papers
+
+- [https://arxiv.org/abs/1802.03704 TARM: A Turbo-type Algorithm for Affine Rank Minimization], submitted to IEEE Transactions on Signal Processing.
 
 
-== Contact
-Zhipeng Xue \n
-Email:  [xuezhp@shanghaitech.edu.cn xuezhp@shanghaitech.edu.cn] 

@@ -1,24 +1,26 @@
 # jemdoc: menu{MENU}{research.html}, showsource
-= Research
 
-Research is Exciting!
 == Research Topics
 I am now working on using message passing algorithm to solve estimation problems. Applications of message passing algorithm includes compressed sensing, phase retrieval, etc.
 
-=== Message Passing
-Message passing algorithm is used to calculate the marginal distribution given joint distribution. The messages passing between factor nodes and variable nodes in a factor graph.
-
-~~~
-{}{img_left}{factorpass.jpg}{alt text}{200px}{HEIGHTpx}
-~~~
 
 === Compressed Sensing
-Solve the problem of $y=A x$, where $x$ is a sparse vector.
+Solve the problem of $y=A x + w$, where $x$ is a sparse vector.
 
 ~~~
-{}{img_left}{compressive-sensing.png}{alt text}{200px}{HEIGHTpx}
+{}{img_left}{cs.png}{alt text}{300px}{HEIGHTpx}
 ~~~
 
-=== Phase Retrieval
-Solve the problem of $y=|A x|$. We only get the magnitude of the observation.
+=== Low-rank Matrix Recovery
+Solve the problem of $y =A X + W$, where $X$ is a low-rank matrix.
 
+~~~
+{}{img_left}{lowrank.png}{alt text}{300px}{HEIGHTpx}
+~~~
+
+=== Robust Principal Component Analysis
+Solve the problem of $y=A(L+S)+W$. $L$ is a low-rank matrix and $S$ is a sparse matrix.
+
+~~~
+{}{img_left}{rpca.jpg}{alt text}{300px}{HEIGHTpx}
+~~~
